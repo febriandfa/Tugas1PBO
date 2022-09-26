@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\PBOPolimorfisme\PBOPolimorfisme\bin\Debug\netcoreapp3.1\PBOPolimorfisme.exe
+C:\Users\Asus\source\repos\PBOPolimorfisme\PBOPolimorfisme\bin\Debug\netcoreapp3.1\PBOPolimorfisme.deps.json
+C:\Users\Asus\source\repos\PBOPolimorfisme\PBOPolimorfisme\bin\Debug\netcoreapp3.1\PBOPolimorfisme.runtimeconfig.json
+C:\Users\Asus\source\repos\PBOPolimorfisme\PBOPolimorfisme\bin\Debug\netcoreapp3.1\PBOPolimorfisme.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\PBOPolimorfisme\PBOPolimorfisme\bin\Debug\netcoreapp3.1\PBOPolimorfisme.dll
+C:\Users\Asus\source\repos\PBOPolimorfisme\PBOPolimorfisme\bin\Debug\netcoreapp3.1\PBOPolimorfisme.pdb
+C:\Users\Asus\source\repos\PBOPolimorfisme\PBOPolimorfisme\obj\Debug\netcoreapp3.1\PBOPolimorfisme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\PBOPolimorfisme\PBOPolimorfisme\obj\Debug\netcoreapp3.1\PBOPolimorfisme.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\PBOPolimorfisme\PBOPolimorfisme\obj\Debug\netcoreapp3.1\PBOPolimorfisme.AssemblyInfo.cs
+C:\Users\Asus\source\repos\PBOPolimorfisme\PBOPolimorfisme\obj\Debug\netcoreapp3.1\PBOPolimorfisme.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\PBOPolimorfisme\PBOPolimorfisme\obj\Debug\netcoreapp3.1\PBOPolimorfisme.dll
+C:\Users\Asus\source\repos\PBOPolimorfisme\PBOPolimorfisme\obj\Debug\netcoreapp3.1\PBOPolimorfisme.pdb
+C:\Users\Asus\source\repos\PBOPolimorfisme\PBOPolimorfisme\obj\Debug\netcoreapp3.1\PBOPolimorfisme.genruntimeconfig.cache

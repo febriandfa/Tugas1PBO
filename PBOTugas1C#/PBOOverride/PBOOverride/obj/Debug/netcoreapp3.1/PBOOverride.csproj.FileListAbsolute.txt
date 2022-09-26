@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\PBOOverride\PBOOverride\bin\Debug\netcoreapp3.1\PBOOverride.exe
+C:\Users\Asus\source\repos\PBOOverride\PBOOverride\bin\Debug\netcoreapp3.1\PBOOverride.deps.json
+C:\Users\Asus\source\repos\PBOOverride\PBOOverride\bin\Debug\netcoreapp3.1\PBOOverride.runtimeconfig.json
+C:\Users\Asus\source\repos\PBOOverride\PBOOverride\bin\Debug\netcoreapp3.1\PBOOverride.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\PBOOverride\PBOOverride\bin\Debug\netcoreapp3.1\PBOOverride.dll
+C:\Users\Asus\source\repos\PBOOverride\PBOOverride\bin\Debug\netcoreapp3.1\PBOOverride.pdb
+C:\Users\Asus\source\repos\PBOOverride\PBOOverride\obj\Debug\netcoreapp3.1\PBOOverride.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\PBOOverride\PBOOverride\obj\Debug\netcoreapp3.1\PBOOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\PBOOverride\PBOOverride\obj\Debug\netcoreapp3.1\PBOOverride.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\PBOOverride\PBOOverride\obj\Debug\netcoreapp3.1\PBOOverride.AssemblyInfo.cs
+C:\Users\Asus\source\repos\PBOOverride\PBOOverride\obj\Debug\netcoreapp3.1\PBOOverride.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\PBOOverride\PBOOverride\obj\Debug\netcoreapp3.1\PBOOverride.dll
+C:\Users\Asus\source\repos\PBOOverride\PBOOverride\obj\Debug\netcoreapp3.1\PBOOverride.pdb
+C:\Users\Asus\source\repos\PBOOverride\PBOOverride\obj\Debug\netcoreapp3.1\PBOOverride.genruntimeconfig.cache

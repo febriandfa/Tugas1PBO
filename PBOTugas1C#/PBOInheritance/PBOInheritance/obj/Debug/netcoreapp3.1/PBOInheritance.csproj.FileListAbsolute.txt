@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\PBOInheritance\PBOInheritance\bin\Debug\netcoreapp3.1\PBOInheritance.exe
+C:\Users\Asus\source\repos\PBOInheritance\PBOInheritance\bin\Debug\netcoreapp3.1\PBOInheritance.deps.json
+C:\Users\Asus\source\repos\PBOInheritance\PBOInheritance\bin\Debug\netcoreapp3.1\PBOInheritance.runtimeconfig.json
+C:\Users\Asus\source\repos\PBOInheritance\PBOInheritance\bin\Debug\netcoreapp3.1\PBOInheritance.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\PBOInheritance\PBOInheritance\bin\Debug\netcoreapp3.1\PBOInheritance.dll
+C:\Users\Asus\source\repos\PBOInheritance\PBOInheritance\bin\Debug\netcoreapp3.1\PBOInheritance.pdb
+C:\Users\Asus\source\repos\PBOInheritance\PBOInheritance\obj\Debug\netcoreapp3.1\PBOInheritance.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\PBOInheritance\PBOInheritance\obj\Debug\netcoreapp3.1\PBOInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\PBOInheritance\PBOInheritance\obj\Debug\netcoreapp3.1\PBOInheritance.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\PBOInheritance\PBOInheritance\obj\Debug\netcoreapp3.1\PBOInheritance.AssemblyInfo.cs
+C:\Users\Asus\source\repos\PBOInheritance\PBOInheritance\obj\Debug\netcoreapp3.1\PBOInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\PBOInheritance\PBOInheritance\obj\Debug\netcoreapp3.1\PBOInheritance.dll
+C:\Users\Asus\source\repos\PBOInheritance\PBOInheritance\obj\Debug\netcoreapp3.1\PBOInheritance.pdb
+C:\Users\Asus\source\repos\PBOInheritance\PBOInheritance\obj\Debug\netcoreapp3.1\PBOInheritance.genruntimeconfig.cache
